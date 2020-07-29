@@ -1,9 +1,7 @@
-### Hi there 👋
+## Hi there, I'm Myroslava 👋
 
 <!--
 **myroslavarm/myroslavarm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### about me
+- ⚡ just graduated with a Computer Science degree from UCU and am looking for cool projects to get started with
+- 🔭 throughout university, I interned at INRIA and participated in Google Summer of Code (twice)
+- 📜 I have a [Medium](https://medium.com/@myroslavarm) blog where I mostly write about my projects in open source
+- 🌱 currently improving my Java skills; I have also had experience programming in Python and Pharo Smalltalk
+- 👯 looking for positions in software engineering / R&D / analysis&management / combining SE & ML
+
+### get in touch
+- twitter: [https://twitter.com/myroslavarm]()
+- linkedin: [https://www.linkedin.com/in/myroslavarm/]()
